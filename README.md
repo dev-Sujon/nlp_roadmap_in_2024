@@ -23,7 +23,7 @@ This guide provides a structured approach to becoming an NLP (Natural Language P
 - **Innovation**: Drives technologies like self-driving cars and voice assistants.
 
 ### Hands-on with TensorFlow and PyTorch
-Participate in coding projects and competitions to get hands-on experience with these frameworks.
+- **Participate in coding projects and competitions to get hands-on experience with these frameworks.**
 
 ## How to Acquire These Prerequisites?
 
